@@ -16,5 +16,6 @@ This is frontend.
 * Search bar
 * View mode
 * Note colors
+* Drag and Drop
 
 ➡️ Click here to access **[Live Demo](keep-my-notes-demo.web.app)**
