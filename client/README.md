@@ -1,5 +1,6 @@
 ## Keep My Notes
 A simple sticky notes application made with browser data persistence. It was developed with React to practice project structuring, routing, custom hooks and styling with Styled Components.
+This is frontend.
 
 ## Technologies
 * [ReactJS](https://react.dev/)
